@@ -1,3 +1,14 @@
+<h1>Laravel - myndbönd</h1>
+
+<p>
+Hér var kóðað eftir Laravel myndböndunum og lært undirstöðuatriði varðandi þetta framework til þess að það nýtist sem 
+best.
+
+</p>
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
